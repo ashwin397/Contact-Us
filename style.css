@@ -1,0 +1,30 @@
+body{
+  background-color: gold;
+}
+#h1{
+  font-size: 80px;
+}
+#box{
+  height: 800px;
+  width: 800px;
+  background: black;
+  margin: auto;
+  overflow: scroll;
+  color: red;
+  border-radius: 50px;
+  font-size: 35px;
+  box-shadow: 15px 15px 9px mediumslateblue;
+}
+input{
+  border-radius: 18px;
+  height: 35px;
+  overflow: scroll:
+}
+button{
+  height: 50px;
+  width: 250px;
+  border-radius: 18px;
+  font-size: 35px;
+  color: white;
+  background: linear-gradient(#8f68ff, #487bff);
+}
